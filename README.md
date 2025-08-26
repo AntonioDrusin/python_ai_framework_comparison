@@ -7,8 +7,6 @@ Comparing readability and tooling for
 ## LangGraph
 
 More mature. Can be called by Pythonic AI. Pycharm has a new plugin for debugging the agent.
-![Graph](graph.png)
-
 
 ## Pytonic AI
 
