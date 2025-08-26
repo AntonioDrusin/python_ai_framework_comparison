@@ -7,8 +7,9 @@ Comparing readability and tooling for
 ## LangGraph
 
 More mature. Can be called by Pythonic AI. Pycharm has a new plugin for debugging the agent.
-![ai_agent_messages.png](./ai_agent_messages.png)
-![ai_agent_graph.png](./ai_agent_graph.png)
+![Graph](graph.png)
+
+
 ## Pytonic AI
 
 Cleanest code of the bunch. 
